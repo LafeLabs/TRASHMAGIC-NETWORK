@@ -1,7 +1,5 @@
 # TRASH MAGIC NETWORK
 
-![](freestore/qrcode.png)
-
  - [https://github.com/LafeLabs/TRASHMAGIC-NETWORK](https://github.com/LafeLabs/TRASHMAGIC-NETWORK)
  - [UP A LEVEL(../)](../)
  - [index.html](index.html)
