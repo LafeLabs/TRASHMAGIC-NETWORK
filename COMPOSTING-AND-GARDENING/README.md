@@ -10,7 +10,6 @@
  - [editor.php](editor.php)
  - [edit.html](edit.html)
  - [qrcode.html](qrcode.html)
- - [http://localhost/](http://localhost/)
 
 *EVERYTHING FREE FOR EVERYONE EVERYWHERE RIGHT NOW!!*
 
